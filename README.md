@@ -298,8 +298,6 @@ industrial-qc-vision-system/
     └── defects_metadata.json
 ```
 
-> **Note on the model:** The trained ONNX model is not included due to file size. It was trained on proprietary industrial imagery. The full inference pipeline, pre/post-processing, and patch-tiling logic are fully present and documented.
-
 ---
 
 ## 🔧 Technical Specifications
