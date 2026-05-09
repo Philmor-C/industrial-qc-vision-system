@@ -337,14 +337,23 @@ industrial-qc-vision-system/
 
 ## 👤 About the Author
 
-**Filmon** — Mechanical Engineer specialising in industrial computer vision, automation engineering, and factory-floor quality control system development.
+**Filmon** — Machine Vision / Industrial Computer Vision Engineer
 
-- Designed and built this system end-to-end: model training, ONNX inference engine, measurement algorithms, Qt5 desktop application, and analytics layer
-- Background in YOLO-based defect detection, sub-pixel metrology, and large-scale industrial image processing
-- Co-inventor of a patented bilingual defect detection system using YOLOv5, OpenCV, CUDA, and TensorRT — developed and deployed at a manufacturing technology company in Shenzhen, China
-- B.Eng. Mechanical Design, Manufacturing and Automation — Zhejiang A&F University, China (2021)
+Engineer focused on building end-to-end industrial vision systems for real-world deployment — combining defect detection, precision measurement, and analytics in offline environments.
 
-📧 Open to industrial computer vision, machine vision engineering, and automation engineering roles globally — with full relocation.
+Designed and built this QC system end-to-end: model training, ONNX inference pipeline, sub-pixel measurement algorithms, Qt desktop application, and analytics layer
+
+Experience developing industrial vision software deployed in production environments
+
+Built a desktop-based automated YOLO training platform integrated into a commercial inspection system and contributed to a company-held patent covering the overall solution
+
+Strong focus on high-resolution inspection, CPU-optimized inference, and factory-floor constraints (offline, reliability, usability)
+
+Tech Stack: Python, OpenCV, ONNX Runtime, OpenVINO, PySide2 (Qt), NumPy, SciPy, Plotly
+
+📍 Open to roles in industrial computer vision, machine vision engineering, and automation systems (open to relocation)
+
+
 
 <br/>
 
