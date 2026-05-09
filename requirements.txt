@@ -1,0 +1,9 @@
+numpy~=1.24.4
+onnxruntime~=1.19.2
+pillow~=10.4.0
+opencv-python-headless
+torch
+plotly~=6.7.0
+nicegui~=2.24.2
+PySide2
+
