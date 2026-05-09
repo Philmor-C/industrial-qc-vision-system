@@ -126,26 +126,26 @@ The defect detection pipeline tiles the input image into overlapping 1280×1280 
 
 <img src="https://raw.githubusercontent.com/Philmor-C/industrial-qc-vision-system/main/assets/defect_01.JPG" alt="Defect detection — full annotated output image with bounding boxes" width="100%"/>
 
-> *Full image annotated with colour-coded bounding boxes per defect class, confidence scores, and total detection count. Each class gets a consistent colour seeded for reproducibility.*
+> *Inspection summary — images processed, total defect count, and average defects per image displayed as KPI cards. Collapsible per-image sections show original and annotated images side by side.*
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Philmor-C/industrial-qc-vision-system/main/assets/defect_02.JPG" alt="Defect detection — per-defect inspection table with ROI thumbnails" width="100%"/>
 
-> *Per-defect inspection table: ROI crop thumbnail, Canny contour visualization thumbnail, colour-coded defect class badge, confidence score, contour count, and total defect area in px². Each row has an Inspect button opening a full drill-down modal.*
+> *Full image annotated with colour-coded bounding boxes per defect class, confidence scores, and total detection count. Each class gets a consistent colour seeded for reproducibility.
+Per-defect inspection table: ROI crop thumbnail, Canny contour visualization thumbnail, colour-coded defect class badge, confidence score, contour count, and total defect area in px². Each row has an Inspect button opening a full drill-down modal.*
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Philmor-C/industrial-qc-vision-system/main/assets/defect_03.JPG" alt="Defect detection — modal drill-down with full-size ROI and contour images" width="100%"/>
 
-> *Modal inspection view for a single defect — full-size ROI image alongside the Canny contour visualization, with original and expanded bounding box coordinates, confidence, contour count, area coverage percentage, and a per-contour breakdown table (circularity, perimeter, bounding rect).*
+> *Modal inspection view for a single defect — full-size ROI image alongside the Canny contour visualization.*
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/Philmor-C/industrial-qc-vision-system/main/assets/defect_04.JPG" alt="Defect detection — KPI summary and inspection overview" width="100%"/>
 
-> *Inspection summary — images processed, total defect count, and average defects per image displayed as KPI cards. Collapsible per-image sections show original and annotated images side by side.*
-
+>  *Modal inspection view for a single defect — full-size ROI image alongside the Canny contour visualization. with original and expanded bounding box coordinates, confidence, contour count, area coverage percentage, and a per-contour breakdown table (circularity, perimeter, bounding rect).*
 ---
 
 ### Tab 3 — Advanced Analytics
@@ -350,7 +350,7 @@ industrial-qc-vision-system/
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/filmon-24098a3ba)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Philmor-C)
 
 ---
