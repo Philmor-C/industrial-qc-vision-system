@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-05-10T02:30:22.451423",
+    "total_defects": 8,
+    "total_area": 15316.5
+  },
+  {
+    "timestamp": "2026-05-10T02:30:39.403407",
+    "total_defects": 8,
+    "total_area": 15316.5
+  },
+  {
+    "timestamp": "2026-05-10T02:30:40.604430",
+    "total_defects": 8,
+    "total_area": 15316.5
+  },
+  {
+    "timestamp": "2026-05-10T02:41:51.419771",
+    "total_defects": 20,
+    "total_area": 33414.5
+  },
+  {
+    "timestamp": "2026-05-10T02:42:34.060490",
+    "total_defects": 20,
+    "total_area": 33414.5
+  },
+  {
+    "timestamp": "2026-05-10T02:43:10.890025",
+    "total_defects": 20,
+    "total_area": 33414.5
+  },
+  {
+    "timestamp": "2026-05-10T02:43:26.811737",
+    "total_defects": 20,
+    "total_area": 33414.5
+  },
+  {
+    "timestamp": "2026-05-10T02:43:54.628388",
+    "total_defects": 20,
+    "total_area": 33414.5
+  }
+]
