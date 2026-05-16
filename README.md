@@ -33,16 +33,11 @@ The application combines two inspection disciplines in a single Qt5 desktop tool
 Both pipelines feed into an **Advanced Analytics** module with 8 interactive Plotly-based analysis views — Pareto, morphological, spatial pattern, severity scoring, trend tracking, density analysis, root cause correlation, and statistical box plots.
 
 ---
-
 ## 🎬 Demo
 
-<a href="https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/Industrial_QC_Vision_System_Full_Inspection_Pipeline_Demo.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/▶_Watch_Demo-HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/Industrial_QC_Vision_System_Full_Inspection_Pipeline_Demo.mp4)
 &nbsp;
-<a href="https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/QC_Technical_Architecture_and_Implementation_v2.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Technical_Architecture-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+[![Technical Architecture PDF](https://img.shields.io/badge/📄_Technical_Architecture-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/QC_Technical_Architecture_and_Implementation_v2.pdf)
 -->
 
 ---
