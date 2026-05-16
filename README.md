@@ -36,10 +36,9 @@ Both pipelines feed into an **Advanced Analytics** module with 8 interactive Plo
 
 ## 🎬 Demo
 
-> **📹 Demo video coming soon** — full walkthrough of the inspection workflow, defect detection results, measurement pipeline, and advanced analytics dashboard.
-
-<!-- Replace this block when your video is ready:
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/Industrial_QC_Vision_System_Full_Inspection_Pipeline_Demo.mp4)
+&nbsp;
+[![Technical Architecture PDF](https://img.shields.io/badge/📄_Technical_Architecture-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://huggingface.co/datasets/Filiyo/industrial-qc-vision-system-assets/blob/main/QC_Technical_Architecture_and_Implementation_v2.pdf)
 -->
 
 ---
