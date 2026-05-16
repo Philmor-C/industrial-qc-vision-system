@@ -355,7 +355,7 @@ Tech Stack: Python, OpenCV, ONNX Runtime, OpenVINO, PySide2 (Qt), NumPy, SciPy, 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filmon-24098a3ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filmon-didey-24098a3ba)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Philmor-C)
 
 ---
